@@ -71,23 +71,6 @@
 
 </div>
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=miauyo&theme=tokyonight&hide_border=true&background=0d1117&stroke=79ff97&ring=ff6b6b&fire=ff6b6b&currStreakLabel=79ff97" alt="GitHub Streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=miauyo&bg_color=0d1117&color=79ff97&line=79ff97&point=ff6b6b&area=true&hide_border=true&custom_title=贡献活动图" />
-
-</div>
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=miauyo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=3" />
-</div>
-
-
 ## 🌐 Contact Me
 
 <div align="center">
