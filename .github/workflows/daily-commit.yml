@@ -19,8 +19,8 @@ jobs:
     
     - name: Configure Git
       run: |
-        git config --global user.name "晓东"
-        git config --global user.email "i@miauyo.com"
+        git config --global user.name "miauyo"
+        git config --global user.email "miauyo@foxmail.com"
     
     - name: Daily commit
       run: |
